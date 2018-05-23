@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_marginBottom="16dp"
+    android:layout_marginTop="16dp"
+    >
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context=".Main3Activity"
+    >
+    <ImageView
+        android:layout_margin="18dp"
+        android:id="@+id/image"
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:layout_centerHorizontal="true"
+
+
+        android:scaleType="centerCrop"
+       />
+    <TextView    android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"
+        android:layout_below="@id/image"
+        android:id="@+id/desc"
+        android:textAlignment="textStart"
+        android:layout_width="match_parent"
+        android:textSize="15sp"
+        android:fontFamily="@font/dustismo"
+        android:textColor="@color/primary_dark_color"
+        tools:text="@string/siruvani"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/maps"
+        android:layout_below="@id/desc"
+        android:textSize="18sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:fontFamily="@font/teen"
+        android:layout_centerHorizontal="true"
+        android:text="Open in Maps"
+        />
+
+
+</RelativeLayout>
+</ScrollView>

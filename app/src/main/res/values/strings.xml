@@ -1,0 +1,259 @@
+<resources>
+    <string name="app_name">My Coimbatore</string>
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_museum">History</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_nature">Nature</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_sports">Sports</string>
+    <string name="category_entertain">Leisure</string>
+    <string name="cbe">Located in the southern part of Tamil Nadu is the city of Coimbatore,
+        the second largest in the state and the 15th largest in India. It is a major industrial hub and
+        is often referred to as the \'Manchester of South India\'.
+        This urban city, other than its many industries, also has many attractions that draw tourists here.
+        The temples, lakes and natural beauty of this place make it an amazing place to head to for a vacation.
+        It has a balanced mix of the old era and the new age.
+    The best thing about this city is its pleasant weather all year round.
+The city also takes pride in housing the Siruvani River which is a tributary of the River Kaveri.
+        The special thing about this river is the taste of the water due to a perfect mix of the minerals making it the
+        second tastiest water in the world after the Nile River.</string>
+    <string name="abtapp">My Coimbatore\nVersion 1.0\nCopyright &#169; 2018 Rajkumar.
+        \nFor any suggestions, please contact the developer.</string>
+    <string name="disclaimer">
+    \nDISCLAIMER : This app was developed for educational purposes. All the pictures and info were taken from various websites. I don\'t own any copyright of them. </string>
+    <string name="siruvani">Siruvani Waterfalls and the dam named after them are located 35 km west of Coimbatore
+        in the Western Ghats. The reservoir at Siruvani was built for Tamil Nadu by the Kerala government with funds
+        collected by the Tamil Nadu government to meet the drinking water requirements of Coimbatore. The gateways on
+        either side of the road across the dam are typical of the Kerala and Tamil architectural styles. Siruvani is also
+        home to certain tribals like the Mudugars and Irulars. Water from Siruvani River is renowned for its taste and
+        mineral properties, and the view from the falls and the dam is a tourist attraction.
+        The sweetness has been attributed to the vegetation and rocks through which the water
+        flows in the Attapady area.</string>
+    <string name="anamalai">Anamalai Tiger Reserve, earlier known as Indira Gandhi Wildlife Sanctuary and National Park
+    and previously as Anamalai Wildlife Sanctuary, is a protected area located in the Anaimalai Hills of Pollachi, Valparai
+    and Udumalpet taluks of Coimbatore District and Tiruppur District, Tamil Nadu state, South India. The park is named
+    after former Prime Minister of India Indira Gandhi who visited the park on 7 October 1961. The main tourist
+    facilities are located in the northeast corner of the park at \"Topslip\", so named because of the local 19th
+    century practice of sliding timber logs down the hills from here.</string>
+    <string name="barali">Baralikadu is a small tribal village which is situated near Pillur dam. It is an undisclosed spot which inspires nature lovers.
+The way is a hilly terrain enriched with green vegetation with a pleasant climate providing many view points to have an awe for these scenes.
+The ride covering a distance of 5 km on the cool water with mountains and forest on either side gives us a rare sight. You can also stop by the banks to
+        have a walk into the jungle as you like. Walking into the bushes and marshes, along some seasonal streams, enjoying fresh air really energises us.
+        A nice bath in the running water with the pleasant breeze gives a cooling effect and a great relief.
+    The spot is located at an easy destination reachable for people from Coimbatore, Tirpur, Ooty, Metupalayam, etc.
+        Only on Saturdays and Sundays.
+A really fantastic option for a one day tour from Coimbatore. </string>
+    <string name="monkey">Only 65 km away from the hustling and bustling city of Coimbatore is the peaceful Monkey Falls.
+        Enveloped between evergreen forests and rocky cliffs, the alluring waterfall brings together the entire scenery. Anyone
+        in earshot of the humming Monkey Waterfalls is inevitably drawn to these melodious sounds. The water swishes across the
+        rocks joyfully and dives into a pool of water as clear as cellophane.
+     The spiky shrubs surround the body of water as if they are crowning it and the sweet nectar fragrance of flowers take over the spirits of anyone around them.
+        Plummeting from a height, the fringes of the Monkey falls crash along the sides of the mountain and give a silver lining to the fall. Frogs dancing around
+        the gushing water, tiny birds chirping along joyously and numerous monkeys swaying across the trees playfully. This soul-swelling magic of witnessing this
+        waterfall in all its glory will surely follow you all the way home.</string>
+    <string name="kuttralam">Kovai Kutralam falls is an exhilarating water fall located in the scenic region of Siruvani.
+        The water fall is about 37 kilometers away from Coimbatore city and the water fall is predominantly manifested for its exaltedness.
+The water fall is set in the deepest fragment of the impenetrable woodland and due to this reason vacationers are not conceded to visit the falls after 5 pm.
+        The key inception of drinking water in Coimbatore is supplied by Siruvani. Tourists cannot make their visit to this falls anytime
+        because only few numbers of buses are available to visit the place. With a sterling panoramic view, the dam is a place that will leave you not just
+        enchanted but also fill you with inner joy.</string>
+    <string name="vellingiri">The Velliangiri Mountains, a part of the Nilgiri Biosphere Reserve, are situated at the Western Ghats border of Coimbatore district, Tamil Nadu. Known as the "Thenkailayam - Kailash of the South", these mountains are held and revered on par with spiritually most powerful place on the planet - Mount Kailash, the legendary abode of Shiva.
+        On the top of the Velliangiri Mountains, Shiva is worshipped as Swayambu, one who is self-created and in this form, he graces the devotees.
+        This temple is known as Rajathagiri, Velliangiri, Dakshin Kailash or Bhoo Kailash. The presiding deity is Lord Shiva in the form of Panchalingesa and his consort Parvathi in the form of Manonmani Amman. Besides, the Shiva Temple of Velliangiri, the presence of the Dhyanalinga is another reason why people throng to the Velliangiri Hills.
+    Velliangiri Mountains is an ideal destination for the adventurous, nature lovers and devotees alike. These hill ranges are rich in natural flora and fauna, which include rare herbs.
+        The last hill peak is totally wind - blown and nothing except grass grows here. The trek is 8 km long and steep at some places. </string>
+    <string name="tnau">Tamil Nadu Agriculture University is situated in Coimbatore and maintains this huge 300 Acre Botanical Garden
+        called the TNAU Botanical Garden. There are so many varieties of plants and trees you can find there, and each species is labeled with its common name as well as
+        scientific name. Tourists are allowed inside (for an entry fees of Rs. 10) and it is very green all over the place! They also have certain plants in
+        incubators where the conditions (temperature, etc) are regulated for their growth. They also maintain a nursery where they not only sell plants but help
+        people with techniques of plant growing like plant husbandry, organic pesticides etc. Once you are inside, its like a forest, and you ought to be careful
+        with the type of big mosquitoes and ants that are present there! especially if you wish to explore every nook and corner. They conduct plant/ flower shows
+        once in a year (in the month of January) where about a
+        lakh of people visit to see the various plants and flowers grown in-house as well as the ones imported for the event.</string>
+    <string name="shola">Sholayar Dam is a significant tourist attraction near the town of Valparai. Since the dam has two reservoirs, there is an Upper Sholayar Dam and a
+        Lower Sholayar Dam located at a little distance away from each other. The dam is surrounded by magnificent verdant hills. The Upper Sholayar Dam is accessed by tourists and it is located in Tamil Nadu whereas, the other is located in Kerala, called as the Lower Sholayar Dam. This attraction is the lifeline of the local people and this dam is surrounded by Sholayar forest.
+    Since it is located in the middle of the forest, you can sight-see flora and fauna amidst the nature. If you are an enthusiastic nature photographer then this is a perfect place. You can also go to the Chimmini Wildlife Sanctuary and Parambikulam Tiger Reserve while you visit the dam.
+    It is ideally visited throughout the year but it is best visited during winters when the weather is dry. Sholayar Dam is best visited between the months of December to February.</string>
+    <string name="azhiyar">Architectural Aazhiyaar Dam, also known as Aaleeyaar Dam is among popular tourist attractions of the region constructed across River Aliyar. Aazhiyaar Dam, situated on a height of 81 metres, was set up with the view to supply water for irrigation purpose.
+Several tunnels and canals at different elevations are connected with the reservoir. Along with power generation and irrigation, the dam has helped in restricting flow of rivers like Aliyar, Sholiyar, Nirar, Thekkadi, Parambikulam and Palar.
+An aquarium and an amusement park beside reservoir is also popular.  . It is located at 24 km from Pollachi town, which has frequent bus connections with the city of Coimbatore.</string>
+    <string name="parambi">Parambikulam Tiger Reserve is situated in Chittur taluk of Palakkad district and is about 100 km away from Palakkad. The challenging hill ranges here are placed at an altitude of 300 to 1438 m above sea level and the place offers a good climate with temperatures ranging from 15 degree Celsius to 32 degree Celsius. Sprawling over an area of 285 sq km, Parambikulam can boast of the first scientifically managed teak plantations of the world and also houses the world\'s tallest and oldest teak tree.
+Romance, wildlife or adventure holidays - the woods and wildlife of Parambikulam Tiger Reserve in Palakkad district of Kerala won\'t disappoint you. Surrounded by other protected wildlife sanctuaries, the 643.66 sq km of greenery is one of the best protected ecological parks in the country. From the elusive tiger to the fiery leopard or the majestic Indian elephant or fresh water crocodiles, the breathtaking landscape is home to a plethora of endemic flora and fauna.
+</string>
+    <string name="bhavani">Bhavanisagar Dam and Reservoir also called Lower Bhavani Dam, is located on the Bhavani River in Erode district, Tamil Nadu, India.
+        The dam is situated some 16 km west to Sathyamangalam, is 35 km  from Gobichettipalayam and is 36 km north-east to Mettupalayam. The dam feeds the Lower Bhavani
+        Project Canal and is the second largest dam in Tamil Nadu.
+    The dam is considered to be among the biggest earthen dams in the country. Bhavanisagar dam is constructed on Bhavani River, which is merely under the union of Moyar River.
+         The length of the earthen bund itself runs in to 8 Kms. from Zero Point. The Dam was constructed during post independent
+        period from 1948 to 1955. The construction cost of the dam was 21.00 Crores. It is a Multi-Purpose Dam. It is used to store water for irrigation, generate electricity,
+        supply drinking water, control flood and control the silt formation in the downstream river. It forms the tail end of the long river chain on the eastern side of the
+        Western Ghats in Nilgiris. Average discharge from the dam is 1000 Cu Secs.
+    </string>
+    <string name="silent">
+        The eerie silence, emphasised by the missing Cicadas that gave Silent Valley its name, may make you feel and hear things you could never have imagined. A few centuries ago, before humans reached the Silent Valley, this reserve of tropical rainforests stood undisturbed and tranquil like a perfectly hidden diamond.
+
+Located in the Northeast corner of Palakkad district, Silent Valley was named a National Park only in 1984. It was called Sairandhrivanam as it was considered this was where Sairandhiri (the secret identity donned by Panchali, from the epic Mahabharata) hid along with her five husbands, the Pandavas, while escaping their cruel cousins, the Kauravas. The Kunthippuzha River which feeds the entire forest was named after Kunthi, mother of the Pandavas. It is shielded by the Nilgiri Plateau to the North and the Mannarkkad Plains to the South. It constitutes the centrepiece of the Nilgiri Biosphere Reserve, an integral part of the Western Ghats, christened a World Heritage Site by UNESCO in 2012.
+
+The flora and fauna found here makes one wonder if this ecosystem has survived since the very beginning of time.
+        From tigers, leopards, elephants, snakes, Lion-Tailed Macaques and Malabar Giant Squirrels to moths, bugs and toads,
+        the diversity in fauna is breath-taking. Along with them one can view over 1000 species of flowering plants and another 110
+        species of orchids that enchant all who see them. Over 400 species of moths and 200 species of butterflies have been catalogued here.
+        The 128 species of beetles deserve a special mention since 10 of them were previously unknown to mankind.
+
+    </string>
+    <string name="marudha">The Arulmigu Subramanya Swami Temple is located in Marudhamalai, Coimbatore,
+        India and is dedicated to God Muruga. Like most God Muruga temples, this temple too is located on a hillock.
+        It forms a part of the Western Ghats. The temple is situated on the foothills. There is a temple for Lord Ganesha,
+        where the idol is called the Thaan Thondri Vinaayakar. The Temple is said to belong to the 12th century. Stone inscriptions dating back to the 12th
+    Century contain words such as Marudhan and Marudhachalam, which reveal that the names were in vogue even then.
+The temple is situated at a height of 500 feet on Marudhamalai hills. This is one of the six main abodes of the lord.
+        The deity is seen to be magnificently mounted on his vehicle, which is a peacock. The Pambatti Siddhar Cave is
+        another shrine that is located on the slopes, towards the east. Legend records that Pambatti Siddhar used this
+        cave as an abode for meditation on Lord Muruga and attained salvation here. One can notice a natural image of a
+        snake on the rock. There are springs that have holy water. They are named Marudha Theertham and Skanda Theertham.
+        A dip in these springs brings forth health and wealth to devotees.
+</string>
+    <string name="perur">The Patteeswaraswamy temple is located in Perur and is dedicated to God Patteswaraswamy. The temple built by Karikala Chola is located 7 kilometers west of near Noyyal river. Coimbatore has many temples out of which the Perur Patteeshwara Swamy temple is the most popular one. The temple features huge statues. The significance of Perur temple in earlier days is explained in the poetic creations of Arunagiri Nather and Kachiappa Munivar.
+    The Pattivinayakar shrine, dedicated to Ganesha, is a beautiful one. The Arasambalavanar shrine is dedicated to Shiva at the spot where Shiva is believed to have performed his Thandavam under a Peepul tree. The North and South Kailasam temples guard the two directions of the temple. This is one of the best among South Indian temples in terms of architectural and sculptural splendour. Dedicated to Shiva, this is a temple of great religious significance.</string>
+    <string name="isha">Dhyanalinga Temple is a yogic center dedicated to the practice of yoga and meditation. ‘Dhyana’ means meditation and ‘Linga’ meaning
+        form in Sanskrit, which aptly describes the existence of this center. It is located about 30 km from Coimbatore. The premises are well planned,
+        and the whole structure is crafted to perfection. It has a sanctum that is covered with a 33-feet height large elliptical dome and houses
+        a 4-meter long Lingum of black granite. For those who lead a really busy life, meditating in the open spaces at the Dhyanalinga Temple will fill you
+        up with energy distilled by yogic sciences. Do note that a complete and calming silence is maintained inside this temple.
+        The entrance has an erected Sarva Dharma Sthamba, which is a pillar and has symbols of Hinduism, Jainism, Islam, Buddhism and
+        Christianity among others. This symbolizes that people of all faiths are allowed here. The spirit of this place is highlighted on
+        Nadha Aradhana when the place reverberates with vocals, drums and various other
+        instruments that are presented to the Linga.
+</string>
+
+    <string name="eacha">The Eachanari Vinayagar Temple is situated about 12 km from Coimbatore. It is dedicated to Vinayagar or Lord Ganesh who is said to have 32
+    forms. It is said that when the 6 feet tall Vinayaga idol was being transported from Madurai in a cart to Patteeswarar Temple, the cart’s axle broke. The idol then seated itself
+    to the place it is currently at. Efforts to transport it to Perur did not materialize and this is how this temple came into being. Service includes God’s procession in a
+    golden chariot (every evening around 7pm) and the Ganapathy Homam (everyday early morning at 5:30pm). Both of these are chargeable poojas, and the money goes into the
+    maintenance of the temple. It is believed that a Ganapathy Homam conducted on weddings, birthdays, business set up days or other auspicious occasions is highly fruitful for
+    success of the sevarthigal. The temple also hosts a meal open to all called the Annadhana, where delicious lunch is served to everyone who comes in. Festivals celebrated here
+    are the Aadi perukku, Saraswathy Pooja, Thai Pongal, Deepawali, Vinayagar Chaturthi and Tamil New Year.
+   </string>
+    <string name="masani">Located about 24 km south west of Pollachi, at the confluence of Aliyar River and Upper Stream, the Anaimalai Masani Amman Temple enshrines Goddess
+        Arulmigu Masani Amman. The deity is seen in a lying posture and represented with four hands. According to an interesting legend, during the Sangam Era, Anaimalai was
+        ruled by a chief called Nannan. He had a big mango grove and was so possessive of it that he appointed check post officials to guard the trespassers. It so happened that
+        one day a woman was bathing in the Aliyar River and a mango came floating to her in the waters. Unable to resist tasting it, she bit it. This was reported to the ruler and
+        the innocent woman was produced before him. She pleaded that she did not steal the mango. Nonetheless, she was executed. Angered by the unjustifiable ruler, her kins killed
+        him in a battle. People then started worshipping her to honor her martyrdom and soon a temple was built for the same. The temple is bustling with energy during the festival
+        of Kundam Thiru Vizha where an image of the deity is made of clay and taken to a graveyard. Prayers are then offered to it. Formality of Kankhan ,Kundam lighting and Mahamuni
+        Pooja follow shortly. Furthermore the temple is said to bless barren women with off\-springs and pregnant women with good health!
+    </string>
+    <string name="koni">Koniamman Temple is dedicated to Koniamman, located in Big Bazaar road, Coimbatore. Koniamman temple and Dhandumariamman temple are
+        considered as two eyes of the city coimbatore. The history of the temple and deity dates back to 13th century A.C. Goddess Koniamman is one of the forms of Parasakthi.
+        Her image is exquisitely sculpted and she is depicted holding in her eight hands the trident, udukkai (drum), sword, conch and discus, a skull, fire and a bell. Strangely
+        enough, she is shown with an earring covering the lobe of the right ear and a kundalam (umbrella-shaped) dangling earring on the left ear.
+        This is the only temple where Oonjal festival is celebrated during the 30 days of Aadi month – July-August.</string>
+    <string name="sai">The Hindu temple of Sri Naga Sai is situated at Mettupalayam Road in Coimbatore. A marble statue of Shirdi Sai Baba was
+        installed by Indian guru and Philanthropist, Sathya Sai Baba in 1961 at the temple. This was for daily worship, post its establishment in 1942.
+        Naga translates to snake. Why is this temple named Naga then? There is an interesting legend behind this name. It is said that in 1943,
+        Thursday (sacred day for worshipping Sai Baba) evening Bhajan (prayer recital) was going on in full swing at the temple when suddenly a majestic cobra
+        having an unusually big head appered and stood before Sai Baba’s picture in a pose of worship. Meanwhile the ongoing commotion of drum rolls,
+        aartis and lights seem to have no effect on it, as if it was totally engrossed in the music! Devotees around it stood in total surprise and awe and
+        began showering the cobra with flowers. The Naga lingered at the same spot for 48 hours and when a photographer came to take his picture,
+        it came out from under the heaps of flowers when devotes started praying. Later it slowly marched out in the bushes and left an ani-hill on the grounds
+        which are considered holy. So now you know why Shirdi Sai Baba is worshipped as Shri Nagasai in Coimbatore.
+        A trust called Shri Naga Sai Trust maintains this temple housing the holy shrine of Sai Baba and also the stick he used(it was brought here from Shirdi).
+    </string>
+    <string name="velli">Devotees of Shiva believe that there is a Kailash in the north (Uttara Kailash), one in the centre, (Madhya Kailash) and the third in the south (Dakshina Kailash). Among them, Uttara Kailash is present only in the subtle form.  Madhya Kailash is in Tibet. Vellingiri hill is the Dakshina Kailash. So it is referred to as ‘Then Kayilayam’ or South Kailash.
+It is believed to be the abode of Saint Agasthya and so his successors worship this hill with great devotion.
+        People say that Adi Shankara came here and offered his worship to the Lord. This hill is considered as a symbol of Lord Shiva .
+        It is also looked at as a symbol of penance,  as saints have been doing penance here , since time immemorial. </string>
+    <string name="fort">The Tipu’s Fort, also known as Palakkad Fort, stands in the heart of Palakkad town. Palakkad is a small town on
+        the lower edges of the Sahyadri ranges of the Western Ghats, with patches of dense forests and crisscrossed with rivers.
+One of the well preserved forts in south India, Tipu’s Fort was constructed in 1766 AD and is today a protected monument under the Archaeological
+        Survey of India. The sober majesty of the laterite walls of the fort reminds one of the old tales of valour and courage.
+The fort was built by Hyder Ali (1717 – 1782), the emperor of Mysore province (now part of Karnataka State), supposedly to facilitate communication
+        between both sides of the Western Ghats, (Coimbatore and the West Coast). He had captured the Malabar and Kochi regions which come under the West Coast area.
+        His son Tipu Sultan (1750 – 1799) a warrior as well as a linguist was known as the ‘Tiger of Mysore’. Tipu waged a series of wars against the British colonial rule.</string>
+    <string name="gd">Gopalswamy Doraiswamy Naidu (a.k.a. G D Naidu) was one of the icons of Coimbatore. He was a well known scientist, inventor, educationalist and philanthropist, titled ‘the Edison of India’, who played a role in various developments in the city and the nation, including industries and infrastructure.
+        He had a strong affinity towards automobiles and he was one of the very few people to own a Rolls Royce (in around 1935), which was gifted to him. His car collection is now put on show along with a lot of wheels from all over the world, at the new Geedee Car Museum.
+        Geedee Car Museum houses every significant development in car industry, from a replica of the first automobile in the world (1886 Benz Patent Motorwagen), to recent racing cars. There are over 70 models on display, of which around 30 are from G D Charitable Trust’s collection. And they are arranged chronologically, with documentation explaining the evolution of automobile industry as a whole.
+
+    </string>
+    <string name="gfm">Gass Forest Museum is a government run natural history museum situated at Coimbatore, Tamil Nadu. Gass Forest Museum (GFM) in Coimbatore is a destination with a difference. This is a natural history museum and is the first institution in India to house exhibits related to forestry. This government run museum is located in the verdant Forest College Campus on Cowley Brown Road. It is housed in a heritage building that is over a century old.
+    Museum is within Forest college campus grounds and it feels like a mini forest within the city. Apart from wildlife, the exhibits include Arms used in olden days,
+        wood crafts, huge collection of insects, cultural artifacts and many more. Main attractions are the preserved and stuffed animals, birds and reptiles.
+It was established in 1902 by H.A. Gass, the then Conservator of Forests of Coimbatore circle. Gass conceived the idea of starting a museum to represent various aspects of forestry though a comprehensive collection.
+    </string>
+    <string name="ancient">This Museum is very famous for housing many items related to the fertile Kongu-Chola period.
+As a fact, the Egyptians save their things with them inside mummies similarly the People of Tamil Nadu too believed in the fact of
+        rebirth after their death. So, they saved
+        their belongings with their bodies in a large pot-shaped urns(in Tamil it is called Thaali). These are found in large numbers in this museum.
+         This museum also houses many old items which were excavated from the areas like Perur,Poluvaampatti,Vellalur.
+ This museum also preserves the old displayable slab made during some reign to display the orders issued by the King which was excavated from the Udumalapet town in Tamil Nadu.
+ This museum also contains many coins, sculptures, vessels etc., used in the ancient period.
+</string>
+    <string name="govtmuseum">Right opposite to the VOC Zoo and Park, and in the Nehru stadium complex, the Government Museum is located among the shops.
+    The museum has a collection of old coins from various countries, articles made using wood and bamboo used by the tribals, zoological specimen, and
+        various articles made and used by people who had lived in and around Coimbatore region. It also has a section on how the characters used in Tamil Language
+        evolved over the centuries. There is a separate section for ancient sculptures made in this region, and
+        there is even a stone carved dinosaur in this section! Apart from this, there is a display of books published by the
+        Museum department staff on various topics like \– various musical instruments used over the years, various botanical plant species, etc.
+    </string>
+    <string name="kasturi">The Culture Centre of the Kasthuri Sreenivasan Trust is located on Avanashi Road (NH 47) about 8 kilometres from the Coimbatore Railway Station. It is less than a km from the Coimbatore Airport and close to a number of colleges and Polytechnics.
+The Culture Centre consists of an Art Gallery, a Textile Museum, an Auditorium and a library. As you enter the Culture Centre through its main doors the Art Gallery is to your right and the Textile Museum on the left.
+    The textile museum in the Culture Centre brings together a chronological portrayal of the growth of the textile industry. Models of charkhas, spinning and knitting machines, a wide selection of stitches, weaves and knits, and displays donated by personal collectors makes the museum a must-see on the itinerary of travellers and textile enthusiasts.
+    </string>
+    <string name="regional">The Regional Science Centre at Coimbatore developed by National Council of Science Museums with the active support of Tamilnadu Science and Technology Centre (TNSTC), Govt. of Tamilnadu, was dedicated to the people and handed over to the Govt. of Tamil Nadu on July 13, 2013, by Smt. Chandresh Kumari Katoch, Hon’ble Union Minister of Culture, Govt. of India. The Science Centre, with a built up area of 4000 sq. mtr., houses three permanent galleries, namely ‘Hall of Textile’, ‘How Things Work’ and ‘Fun Science’ and a temporary exhibition hall. It also has 3D film show facility, Inflatable Dome Planetarium, air-conditioned Auditorium with audio-visual equipment, Science Demonstration corner, Children’s Activity corner, Library, Telescope for sky observation and other public facilities.
+    </string>
+    <string name="brooks">Brookefields is a shopping mall located on Brookebond Road (Krishnasamy Road) in Coimbatore, India. Brookefields Mall is considered to be the
+        ultimate destination to experience shopping in the city. It was opened in 2009. The mall has outlets from major clothing and apparel brands.
+The Mall has a Food Court serving multi-cuisine dishes, Gaming Zone and Wi-Fi Connectivity along with usual facilities like Multistorey Parking, ATM. Chennai-based SPI Cinemas operate
+        \'The Cinema\', a six screen Multiplex cinema on the mall\'s top floor. Fun City, based within the mall itself, is a prominent attraction for children.
+        The play area offers an arcade, a carousel, and bumper cars.
+</string>
+    <string name="fun">Located in Peelamedu, Fun Republic Mall is the famous shopping mall which was established in the year of 2012.
+    The total area of the mall would be 525,000 sq ft spread on a 3.5 acres site. People can find different kinds of international
+    and national brands in Fun Republic. In order to offer a comfortable atmosphere, the shopping mall is fully air-conditioned and
+    they provide good parking facility for all the shoppers and visitors. In Fun Republic Mall, there is big anchor store named Shoppers Stop
+    which is spread over 79,000 sq ft. Added to this, the mall holds five screen multiplex that is entirely managed and controlled by Fun Cinemas
+    with a capacity of 1,119 seats. The management of the mall has taken great initiative in constructing ATM centres, escalators and lifts for the
+    convenience of the visitors. The mall is also equipped with an exciting and good food court where you can enjoy a hearty meal after all your shopping!
+</string>
+    <string name="prozone">Prozone Mall - Coimbatore is a horizontally designed shopping mall with Ground + 1 structure of over 5 lakh sq.ft and it is launched on July 19, 2017
+        at Sivanandapuram, Saravanampatty Road, Coimbatore. The mall has outlets from major clothing, apparel brands and a 9-screen INOX cineplex, along with a food court
+        serving multi-cuisine dishes.
+        The Mall was constructed by Prozone Intu Pvt. Ltd., a specialist retail and residential-led mixed-use real estate development company. The mall set up on 12 acres of land on Sathy Road is jointly promoted by the UK-based Intu Properties and Prozone and designed by Bentel Architects, South Africa.
+
+    </string>
+    <string name="black">Black Thunder is a water theme park situated mid way between Ooty and Coimbatore. Spread across 75 acres, it has many black thunder rides such as: Wave Pool, Surf Hill, Wild River ride, Volcano, Dashing Boat,  Kiddies Pool, Twister, Horse ride, Dragon coaster, Ferries Wheel and a lot more. </string>
+    <string name="kondattam">Kovai Kondattam Amusement Park is situated 3 kilometers from Perur on Siruvani Main Road at a distance of 9.5 kilometers from the city.
+ This eco-friendly amusement park is an ideal place for your whole family to enjoy with several exciting water rides and slides suited for all age groups.
+ The major attractions are Wave Pool, Family Pool, Kids Pool, Water Slides, Water Falls, Dashing Car, Family Train, Giant Wheel, Chair-O-Plane, Aqua Dance, Pirate Ship and Merry-go-round etc.
+Kovai Kondattam is an ideal place for a day-long fun and amusement on water and dry rides, picnic, get-togethers with facilities for Conferences, Parties, Receptions, etc. Corporate Bookings are also undertaken with a vast lawn space.
+</string>
+    <string name="maharaja">Maharaja World, also known as Maharaja Theme Park Coimbatore is spread over 15 acres and has many rides, a multiplex, a miniature golf course,
+        an auditorium and a manmade hillock. There are over 40 rides and other facilities at Maharaja world Coimbatore. This adventure theme park includes : Adventure Fort,
+        Aqua Terrain, miniature golf course, Kids Kingdom, Giant Sumo Coaster, Leaping Frog, multiplex, auditorium and manmade hillock. For the water lover in you,
+        this Maharaja water park, Coimbatore has many rides such as slides, rain dance, lazy river and more.</string>
+    <string name="apex">Apex Racing Academy trains young riders in riding skills and develop them as competitive racing riders over a period of levels.
+        The academy is based at Kari Motor Speedway, Coimbatore. They welcome the street riding enthusiasts, newbie’s or veterans who would like to improve their riding skills,
+        and experience the race track.
+This course is all about track time, riding techniques and simply enjoying the racetrack.
+        The staff at the Apex Racing Academy takes a lot of pride in helping each of our students personally.
+        They come from all different riding and racing backgrounds, but most of them are either current or former championship-winning racers.
+        Their aim is to give you an enjoyable and memorable time. You will leave them having improved your riding skills and having better knowledge of your machine and circuit.
+    </string>
+    <string name="golf">The Coimbatore Golf Club is an 18 hole golf course located in a place called Chettipalayam in Coimbatore.
+        The club is also a popular venue for major Golf Tournaments held in India.
+    It\'s strategic location helps people from other cities to regularly visit and play golf. The course is encompassed by hundreds of exotic tropical
+        trees giving the golfer a challenge as well as the pleasure to be on the course. The course is also rich of more than 50 species of birds and
+        a host to large number peacocks. The Club has adopted innovative techniques in waste recycling and using recycled water to help contribute to the environment.
+    
+</string>
+    <string name="offroad">Built on a 5.5 acre land, the ‘Off Road Adventure’ track is nicely placed on the Sulur Pirivu Road, near Neelambur.
+The idea, the organisers say, is to kick up the dust and provide wholesome entertainment for motor sport lovers from this part of the region.
+    The off-road entertainment zone will have the state-of-the-art hospitality facilities and other amusement areas to help your family spend a perfect weekend.</string>
+<string name="kart">Established in the year 2010, Kart Attack in Chinniampalayam, Coimbatore is a top player in the category Sports Clubs in the Coimbatore. This well-known establishment acts as a one-stop destination servicing customers both local and from other parts of Coimbatore.
+Over the course of its journey, this business has established a firm foothold in it’s industry. The belief that customer satisfaction is as important as their products and services, have helped this establishment garner a vast base of customers, which continues to grow by the day. This business employs individuals that are dedicated towards their respective roles and put in a lot of effort to achieve the common vision and larger goals of the company. In the near future, this business aims to expand its line of products and services and cater to a larger client base. In Coimbatore, this establishment occupies a prominent location in Chinniampalayam. It is an effortless task in commuting to this establishment as there are various modes of transport readily available.
+</string>
+    <string name="category_temples">Temples</string>
+
+</resources>
